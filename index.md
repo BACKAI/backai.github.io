@@ -30,10 +30,12 @@ My research interests lie in **Computer Vision** and **Trustworthy AI**, includi
 
 - **Chosun University**, B.S. in Artificial Intelligence Engineering, Mar. 2021 - Feb. 2025
   - GPA: 3.61 / 4.5
+-->
+
 
 {% include_relative _includes/publications.md %}
 
-
+<!--
 ## Experience
 
 - **Visual Intelligence Media Lab (VI-Lab)**, Chonnam National University  
