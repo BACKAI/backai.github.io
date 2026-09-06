@@ -1,5 +1,44 @@
 main:
 
+
+  # ==========================================================
+  # Information Sciences 2026
+  # ==========================================================
+  - title: "Privacy-preserving person re-identification through identity retrieval and hierarchical latent code protection"
+
+    authors: "<strong>Seung-hyeok Back</strong>, Seok Bong Yoo"
+
+    conference_short: "Inf. Sci."
+
+    conference: "<strong>Information Sciences</strong>, Vol. 756, Article 123803, 2026"
+
+    # 논문 페이지/PDF 링크는 다음 단계에서 연결
+    # pdf: "PAPER_URL"
+
+    code: "https://github.com/BACKAI/ProtectReID"
+
+    image: "./assets/img/publication_preview/protectreid_informationsciences2026.png"
+
+
+  # ==========================================================
+  # Computers in Biology and Medicine 2026
+  # ==========================================================
+  - title: "Radiation dose-aware sinogram knowledge library transformer with feature modulation for low-dose medical image segmentation"
+
+    authors: "Yeong Jong Lee, Do Hyun Ki, <strong>Seung-hyeok Back</strong>, Seok Bong Yoo"
+
+    conference_short: "CBM"
+
+    conference: "<strong>Computers in Biology and Medicine</strong>, Vol. 213, Article 111787, 2026"
+
+    # 논문 페이지/PDF 링크는 다음 단계에서 연결
+    # pdf: "PAPER_URL"
+
+    code: "https://github.com/yeongjong0220/DoseSino"
+
+    image: "./assets/img/publication_preview/sinodose_cbm2026.png"
+
+
   # ==========================================================
   # IJCAI 2026 - MonoPure
   # ==========================================================
@@ -82,40 +121,3 @@ main:
 
     notes: "Poster"
 
-
-  # ==========================================================
-  # Information Sciences 2026
-  # ==========================================================
-  - title: "Privacy-preserving person re-identification through identity retrieval and hierarchical latent code protection"
-
-    authors: "<strong>Seung-hyeok Back</strong>, Seok Bong Yoo"
-
-    conference_short: "Inf. Sci."
-
-    conference: "<strong>Information Sciences</strong>, Vol. 756, Article 123803, 2026"
-
-    # 논문 페이지/PDF 링크는 다음 단계에서 연결
-    # pdf: "PAPER_URL"
-
-    code: "https://github.com/BACKAI/ProtectReID"
-
-    image: "./assets/img/publication_preview/protectreid_informationsciences2026.png"
-
-
-  # ==========================================================
-  # Computers in Biology and Medicine 2026
-  # ==========================================================
-  - title: "Radiation dose-aware sinogram knowledge library transformer with feature modulation for low-dose medical image segmentation"
-
-    authors: "Yeong Jong Lee, Do Hyun Ki, <strong>Seung-hyeok Back</strong>, Seok Bong Yoo"
-
-    conference_short: "CBM"
-
-    conference: "<strong>Computers in Biology and Medicine</strong>, Vol. 213, Article 111787, 2026"
-
-    # 논문 페이지/PDF 링크는 다음 단계에서 연결
-    # pdf: "PAPER_URL"
-
-    code: "https://github.com/yeongjong0220/DoseSino"
-
-    image: "./assets/img/publication_preview/sinodose_cbm2026.png"
