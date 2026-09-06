@@ -19,7 +19,6 @@ My research interests lie in **Computer Vision** and **Trustworthy AI**, includi
 - **Privacy-Preserving Person Re-Identification**
 - **Robust Vision-Language Models (VLMs)**
 - **Digital Watermarking**
-- **Adversarial Robustness**
 
 
 ## Education
@@ -50,7 +49,7 @@ My research interests lie in **Computer Vision** and **Trustworthy AI**, includi
   - Advisor: Prof. Gyu-ho Choi
 
 
-## Selected Projects
+## Projects
 
 - **Multimodal Depression Detection**, Spring 2026
   - Capstone Design Project, Trassis Co., Ltd.
