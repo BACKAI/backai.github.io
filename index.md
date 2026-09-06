@@ -21,6 +21,7 @@ My research interests lie in **Computer Vision** and **Trustworthy AI**, includi
 - **Digital Watermarking**
 
 
+<!--
 ## Education
 
 - **Chonnam National University**, M.S. in Artificial Intelligence Convergence, Mar. 2025 - Present
@@ -29,7 +30,6 @@ My research interests lie in **Computer Vision** and **Trustworthy AI**, includi
 
 - **Chosun University**, B.S. in Artificial Intelligence Engineering, Mar. 2021 - Feb. 2025
   - GPA: 3.61 / 4.5
-
 
 {% include_relative _includes/publications.md %}
 
@@ -128,3 +128,4 @@ My research interests lie in **Computer Vision** and **Trustworthy AI**, includi
 - **Chalk Grade Scholarship**, Chosun University, 2024
 - **Academic Fellowship Scholarship**, Chosun University, 2024
 - **Bronze Award**, IT Festival Idea Contest, Chosun University, 2023
+-->
