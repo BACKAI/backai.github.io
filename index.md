@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am an **M.S. student in Artificial Intelligence Convergence at Chonnam National University**, advised by Prof. [Seok Bong Yoo](https://sites.google.com/site/seokbongyoo/).
+I am an **M.S. student in Artificial Intelligence Convergence at Chonnam National University**, advised by Prof. [Seok Bong Yoo]([https://sites.google.com/site/seokbongyoo/](https://sites.google.com/site/seokbongyoo/professor?authuser=0)).
 
 I am a graduate researcher at the **Visual Intelligence Media Lab (VI-Lab)**. My research focuses on computer vision and trustworthy artificial intelligence, particularly proactive deepfake defense, privacy-preserving person re-identification, robust vision-language models, and digital watermarking.
 
