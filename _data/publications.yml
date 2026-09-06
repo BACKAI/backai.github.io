@@ -13,7 +13,7 @@ main:
     conference: "<strong>Information Sciences</strong>, Vol. 756, Article 123803, 2026"
 
     # 논문 페이지/PDF 링크는 다음 단계에서 연결
-    # pdf: "PAPER_URL"
+    pdf: "https://www.sciencedirect.com/science/article/pii/S0020025526007346"
 
     code: "https://github.com/BACKAI/ProtectReID"
 
@@ -32,7 +32,7 @@ main:
     conference: "<strong>Computers in Biology and Medicine</strong>, Vol. 213, Article 111787, 2026"
 
     # 논문 페이지/PDF 링크는 다음 단계에서 연결
-    # pdf: "PAPER_URL"
+    pdf: "https://www.sciencedirect.com/science/article/pii/S0010482526003513"
 
     code: "https://github.com/yeongjong0220/DoseSino"
 
@@ -51,12 +51,14 @@ main:
     conference: "International Joint Conference on Artificial Intelligence <strong>(IJCAI)</strong>, 2026"
 
     # IJCAI official proceedings PDF URL을 확보한 뒤 추가
-    # pdf: "PDF_URL"
+    pdf: "https://ijcai-preprints.s3.us-west-1.amazonaws.com/2026/987.pdf"
 
     # 공개 코드가 있다면 아래에 추가
     code: "CODE_URL"
 
     image: "./assets/img/MonoPure.png"
+
+    notes: "Oral & Poster"
 
 
   # ==========================================================
@@ -71,7 +73,7 @@ main:
     conference: "International Joint Conference on Artificial Intelligence <strong>(IJCAI)</strong>, 2026"
 
     # IJCAI official proceedings PDF URL을 확보한 뒤 추가
-    # pdf: "PDF_URL"
+    pdf: "https://ijcai-preprints.s3.us-west-1.amazonaws.com/2026/988.pdf"
 
     code: "https://github.com/BACKAI/SGD-Guard_IJCAI26"
 
@@ -92,7 +94,7 @@ main:
     conference: "IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2026"
 
     # 다음 단계에서 CVPR Open Access의 공식 PDF 주소를 연결
-    # pdf: "CVPR_PDF_URL"
+    pdf: "https://cvpr.thecvf.com/virtual/2026/poster/38477"
 
     code: "https://github.com/BACKAI/DeepProtect_CVPR26"
 
@@ -113,7 +115,7 @@ main:
     conference: "IEEE International Conference on Robotics and Automation <strong>(ICRA)</strong>, 2026"
 
     # 공식 논문 주소를 확인한 뒤 추가
-    # pdf: "ICRA_PDF_URL"
+    pdf: "ICRA_PDF_URL"
 
     code: "https://github.com/BACKAI/Latent-RAG_ICRA26"
 
