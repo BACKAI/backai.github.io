@@ -54,7 +54,7 @@ main:
     # pdf: "PDF_URL"
 
     # 공개 코드가 있다면 아래에 추가
-    # code: "CODE_URL"
+    code: "CODE_URL"
 
     image: "./assets/img/publication_preview/monopure_ijcai2026.png"
 
