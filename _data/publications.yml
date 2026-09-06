@@ -17,7 +17,7 @@ main:
 
     code: "https://github.com/BACKAI/ProtectReID"
 
-    image: "./assets/img/publication_preview/protectreid_informationsciences2026.png"
+    image: "./assets/img/ProtectReID.png"
 
 
   # ==========================================================
@@ -36,7 +36,7 @@ main:
 
     code: "https://github.com/yeongjong0220/DoseSino"
 
-    image: "./assets/img/publication_preview/sinodose_cbm2026.png"
+    image: "./assets/img/SinoDose.png"
 
 
   # ==========================================================
@@ -56,7 +56,7 @@ main:
     # 공개 코드가 있다면 아래에 추가
     code: "CODE_URL"
 
-    image: "./assets/img/publication_preview/monopure_ijcai2026.png"
+    image: "./assets/img/MonoPure.png"
 
 
   # ==========================================================
@@ -75,7 +75,7 @@ main:
 
     code: "https://github.com/BACKAI/SGD-Guard_IJCAI26"
 
-    image: "./assets/img/publication_preview/sgdguard_ijcai2026.png"
+    image: "./assets/img/SGD-Guard.png"
 
     notes: "Oral & Poster"
 
@@ -96,7 +96,7 @@ main:
 
     code: "https://github.com/BACKAI/DeepProtect_CVPR26"
 
-    image: "./assets/img/publication_preview/deepprotect_cvpr2026.png"
+    image: "./assets/img/DeepProtect.png"
 
     notes: "Poster"
 
@@ -117,7 +117,7 @@ main:
 
     code: "https://github.com/BACKAI/Latent-RAG_ICRA26"
 
-    image: "./assets/img/publication_preview/latentrag_icra2026.png"
+    image: "./assets/img/Latent-RAG.png"
 
     notes: "Poster"
 
