@@ -1,22 +1,121 @@
 main:
 
-  - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
-    authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
-    conference_short: MICCAI
-    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
-    pdf: https://arxiv.org/pdf/2306.00988.pdf
-    code: https://github.com/MrGiovanni/ContinualLearning
-    bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/teaser_example_2.png
-    notes: Early Accept
+  # ==========================================================
+  # IJCAI 2026 - MonoPure
+  # ==========================================================
+  - title: "MonoPure: Multi-Component Purification via Disentangled, Projective Representations for Monocular 3D Object Detection"
 
-  - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
-    authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-    conference_short: CVPR
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: Oral Presentation
-    image: ./assets/img/teaser_example.png
+    authors: "Yeon Woo Cho*, Jung Woo Cheon*, <strong>Seung-hyeok Back*</strong>, Seok Bong Yoo (* Equal Contribution)"
+
+    conference_short: "IJCAI"
+
+    conference: "International Joint Conference on Artificial Intelligence <strong>(IJCAI)</strong>, 2026"
+
+    # IJCAI official proceedings PDF URL을 확보한 뒤 추가
+    # pdf: "PDF_URL"
+
+    # 공개 코드가 있다면 아래에 추가
+    # code: "CODE_URL"
+
+    image: "./assets/img/publication_preview/monopure_ijcai2026.png"
+
+
+  # ==========================================================
+  # IJCAI 2026 - SGD-Guard
+  # ==========================================================
+  - title: "Robust, Generalizable Proactive Face-swapping Defense via Semantic Gradient Divergence"
+
+    authors: "<strong>Seung-hyeok Back</strong>, Do Hyun Ki, Juwan Kim, Seok Bong Yoo"
+
+    conference_short: "IJCAI"
+
+    conference: "International Joint Conference on Artificial Intelligence <strong>(IJCAI)</strong>, 2026"
+
+    # IJCAI official proceedings PDF URL을 확보한 뒤 추가
+    # pdf: "PDF_URL"
+
+    code: "https://github.com/BACKAI/SGD-Guard_IJCAI26"
+
+    image: "./assets/img/publication_preview/sgdguard_ijcai2026.png"
+
+    notes: "Oral & Poster"
+
+
+  # ==========================================================
+  # CVPR 2026 - DeepProtect
+  # ==========================================================
+  - title: "DeepProtect: Proactive Face-Swapping Defense using Identity Blending and Attribute Distortion"
+
+    authors: "Eungi Lee*, <strong>Seung-hyeok Back*</strong>, Hyung-Il Kim, Seok Bong Yoo (* Equal Contribution)"
+
+    conference_short: "CVPR"
+
+    conference: "IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2026"
+
+    # 다음 단계에서 CVPR Open Access의 공식 PDF 주소를 연결
+    # pdf: "CVPR_PDF_URL"
+
+    code: "https://github.com/BACKAI/DeepProtect_CVPR26"
+
+    image: "./assets/img/publication_preview/deepprotect_cvpr2026.png"
+
+    notes: "Poster"
+
+
+  # ==========================================================
+  # ICRA 2026 - Latent-RAG
+  # ==========================================================
+  - title: "Latent-RAG: Identity Retrieval-Guided Latent Augmentation for Privacy-Preserving Person Re-Identification"
+
+    authors: "<strong>Seung-hyeok Back</strong>, Eungi Lee, Hyung-Il Kim, Seok Bong Yoo"
+
+    conference_short: "ICRA"
+
+    conference: "IEEE International Conference on Robotics and Automation <strong>(ICRA)</strong>, 2026"
+
+    # 공식 논문 주소를 확인한 뒤 추가
+    # pdf: "ICRA_PDF_URL"
+
+    code: "https://github.com/BACKAI/Latent-RAG_ICRA26"
+
+    image: "./assets/img/publication_preview/latentrag_icra2026.png"
+
+    notes: "Poster"
+
+
+  # ==========================================================
+  # Information Sciences 2026
+  # ==========================================================
+  - title: "Privacy-preserving person re-identification through identity retrieval and hierarchical latent code protection"
+
+    authors: "<strong>Seung-hyeok Back</strong>, Seok Bong Yoo"
+
+    conference_short: "Inf. Sci."
+
+    conference: "<strong>Information Sciences</strong>, Vol. 756, Article 123803, 2026"
+
+    # 논문 페이지/PDF 링크는 다음 단계에서 연결
+    # pdf: "PAPER_URL"
+
+    code: "https://github.com/BACKAI/ProtectReID"
+
+    image: "./assets/img/publication_preview/protectreid_informationsciences2026.png"
+
+
+  # ==========================================================
+  # Computers in Biology and Medicine 2026
+  # ==========================================================
+  - title: "Radiation dose-aware sinogram knowledge library transformer with feature modulation for low-dose medical image segmentation"
+
+    authors: "Yeong Jong Lee, Do Hyun Ki, <strong>Seung-hyeok Back</strong>, Seok Bong Yoo"
+
+    conference_short: "CBM"
+
+    conference: "<strong>Computers in Biology and Medicine</strong>, Vol. 213, Article 111787, 2026"
+
+    # 논문 페이지/PDF 링크는 다음 단계에서 연결
+    # pdf: "PAPER_URL"
+
+    code: "https://github.com/yeongjong0220/DoseSino"
+
+    image: "./assets/img/publication_preview/sinodose_cbm2026.png"
