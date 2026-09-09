@@ -60,6 +60,7 @@
 
     <div class="links">
 
+      <!-- PDF -->
       {% if link.pdf %}
       <a href="{{ link.pdf }}"
          class="btn btn-sm z-depth-0"
@@ -70,6 +71,8 @@
       </a>
       {% endif %}
 
+
+      <!-- Code -->
       {% if link.code %}
       <a href="{{ link.code }}"
          class="btn btn-sm z-depth-0"
@@ -80,6 +83,8 @@
       </a>
       {% endif %}
 
+
+      <!-- BibTeX -->
       {% if link.bibtex %}
       <a href="{{ link.bibtex }}"
          class="btn btn-sm z-depth-0"
@@ -90,12 +95,28 @@
       </a>
       {% endif %}
 
+
+      <!-- Presentation Type -->
       {% if link.notes %}
       <strong>
         <i style="color:#e74d3c;">
           {{ link.notes }}
         </i>
       </strong>
+      {% endif %}
+
+
+      <!-- Award -->
+      {% if link.award %}
+      <span style="
+        color:#d4af37;
+        font-weight:700;
+        margin-left:8px;
+        white-space:nowrap;
+      ">
+        <span style="font-size:15px;">★</span>
+        {{ link.award }}
+      </span>
       {% endif %}
 
     </div>
@@ -170,6 +191,7 @@
 
     <div class="links">
 
+      <!-- PDF -->
       {% if link.pdf %}
       <a href="{{ link.pdf }}"
          class="btn btn-sm z-depth-0"
@@ -180,6 +202,8 @@
       </a>
       {% endif %}
 
+
+      <!-- Code -->
       {% if link.code %}
       <a href="{{ link.code }}"
          class="btn btn-sm z-depth-0"
@@ -190,6 +214,8 @@
       </a>
       {% endif %}
 
+
+      <!-- BibTeX -->
       {% if link.bibtex %}
       <a href="{{ link.bibtex }}"
          class="btn btn-sm z-depth-0"
@@ -200,12 +226,28 @@
       </a>
       {% endif %}
 
+
+      <!-- Notes -->
       {% if link.notes %}
       <strong>
         <i style="color:#e74d3c;">
           {{ link.notes }}
         </i>
       </strong>
+      {% endif %}
+
+
+      <!-- Award -->
+      {% if link.award %}
+      <span style="
+        color:#d4af37;
+        font-weight:700;
+        margin-left:8px;
+        white-space:nowrap;
+      ">
+        <span style="font-size:15px;">★</span>
+        {{ link.award }}
+      </span>
       {% endif %}
 
     </div>
