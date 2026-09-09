@@ -37,7 +37,7 @@ conferences:
     pdf: "https://ijcai-preprints.s3.us-west-1.amazonaws.com/2026/987.pdf"
 
     # MonoPure 코드가 공개되면 아래 줄을 활성화
-    code: "CODE_URL"
+    code: "https://github.com/yeonwoo29/MonoPure"
 
     image: "./assets/img/MonoPure.png"
 
