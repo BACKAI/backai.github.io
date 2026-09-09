@@ -63,26 +63,29 @@ conferences:
 
     notes: "Poster"
 
+    award: "CVPR Compute Gold Star"
+
 
   # ==========================================================
   # ICRA 2026 - Latent-RAG
   # ==========================================================
-  - title: "Latent-RAG: Identity Retrieval-Guided Latent Augmentation for Privacy-Preserving Person Re-Identification"
+  - title: "DeepProtect: Proactive Face-Swapping Defense using Identity Blending and Attribute Distortion"
 
-    authors: "<strong>Seung-hyeok Back</strong>, Eungi Lee, Hyung-Il Kim, Seok Bong Yoo"
+    authors: "Eungi Lee*, <strong>Seung-hyeok Back*</strong>, Hyung-Il Kim, Seok Bong Yoo (* Equal Contribution)"
 
-    conference_short: "ICRA"
+    conference_short: "CVPR"
 
-    conference: "IEEE International Conference on Robotics and Automation <strong>(ICRA)</strong>, 2026"
+    conference: "IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2026"
 
-    # 공식 PDF 주소 확보 후 활성화
-    pdf: "ICRA_PDF_URL"
+    pdf: "https://cvpr.thecvf.com/virtual/2026/poster/38477"
 
-    code: "https://github.com/BACKAI/Latent-RAG_ICRA26"
+    code: "https://github.com/BACKAI/DeepProtect_CVPR26"
 
-    image: "./assets/img/Latent-RAG.png"
+    image: "./assets/img/DeepProtect.png"
 
     notes: "Poster"
+
+    award: "CVPR Compute Gold Star"
 
 
 
